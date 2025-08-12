@@ -9,4 +9,4 @@ The report explores attack techniques against:
 
 It includes detailed mappings of attacker tactics, detection strategies, and mitigation recommendations.
 
-You can download the full report here: [MITRE_ATTACK_Simulation_Report.pdf](./MITRE_ATTACK_Simulation_Report.pdf)
+You can download the full report here: [Mitre-Attack-Simulation-Report.pdf](./Mitre-Attack-Simulation-Report.pdf)
